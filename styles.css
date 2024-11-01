@@ -1,0 +1,38 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: rgb(3, 11, 39);
+ 
+  
+}
+.container{
+  width:100%;
+  text-align: center;
+  height:450px;
+  
+  
+}
+h1{
+  font-size: 6rem;
+  color:aliceblue;
+  font-family: "Orbitron";
+}
+.dice{
+ display:inline-block;
+ margin:20px;
+ color:azure;
+ font-family: "Orbitron";
+}
+
+footer{
+  font-size: 20px;
+  color:beige;
+}
+
+h1:hover{
+  cursor: grab;
+}
+
+img{
+  width:80%;
+}
